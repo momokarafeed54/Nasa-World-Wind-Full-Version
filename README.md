@@ -239,4 +239,4 @@ This repository serves as the official landing page for NASA World Wind. The sof
 **Get the most recent version of NASA World Wind today!**
 
 ---
-**Last updated:** 2026-09-20 14:32:18 UTC
+**Last updated:** 2026-09-20 18:00:09 UTC
